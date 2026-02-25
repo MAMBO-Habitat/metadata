@@ -1,12 +1,10 @@
-_Archived 20th Feb - the data needs to be deposited in Zenodo_
-
 # metadata
 
 This repository holds metadata about data and digital assets used in the MAMBO Habitat shrub project. The data is all made available under a Creative Commons Attribution 4.0 license.
 
 ## Data in cloud storage
 
-We provide a world-readable s3 bucket kindly hosted by JASMIN / SFTC for the duration of the project.
+We provide a world-readable s3 bucket kindly hosted by JASMIN / SFTC for the duration of the project. The data will be deposited in Zenodo at the end of the project August 2026_
 
 You can connect to this bucket using standard open source geospatial libraries and tools, from the commandline, or view the data on the web.
 
