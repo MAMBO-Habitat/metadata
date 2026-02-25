@@ -1,3 +1,5 @@
+Archived 20th Feb - data storage is not guaranteed preservation, the data needs to be deposited in Zenodo anyway and get a DOI that way.
+
 # metadata
 
 Experimental repository to hold metadata about digital assets in the MAMBO project
