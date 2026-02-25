@@ -10,7 +10,7 @@ You can connect to this bucket using standard open source geospatial libraries a
 
 Please see the [workshops](https://github.com/MAMBO-Habitat/workshops/) repository for example notebooks that show this data being used, which can be run locally or within Google Colab.
 
-* [index.txt](index.txt) - lists all the URLs for direct access to data via HTTPS (to open click on 'raw')
+* [index.txt](index.txt) - lists all the URLs for direct access to data via HTTPS (to open 'view raw')
 
 ### s3 bucket connection details
 
